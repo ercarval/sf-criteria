@@ -1,0 +1,26 @@
+.gitattributes
+.gitignore
+deploy/
+.project
+.settings
+.metadata
+salesforce.schema
+Referenced Packages
+*.sublime-project
+*.sublime-settings
+*.sublime-workspace
+apex-scripts/log
+build.properties
+config
+mm.log
+*.glue
+logs/
+debug/
+fflib-apex-mocks
+npm-debug.log
+angularjs/coverage
+angularjs/build
+bower_components/
+node_modules/
+tmp/
+deploy/
