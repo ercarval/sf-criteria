@@ -1,0 +1,6 @@
+project:
+    name: criteria
+    package:
+        name: CriteriaPackage
+        namespace: criteriaNamespace
+        api_version: 36.0
